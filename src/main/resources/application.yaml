@@ -1,3 +1,10 @@
 spring:
   application:
     name: task-mcp-server
+
+server:
+  port: 8080
+
+logging:
+  level:
+    org.springframework.ai: DEBUG
