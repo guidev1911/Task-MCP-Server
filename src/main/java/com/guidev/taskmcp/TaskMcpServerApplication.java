@@ -1,4 +1,4 @@
-package com.guidev.task_mcp_server;
+package com.guidev.taskmcp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

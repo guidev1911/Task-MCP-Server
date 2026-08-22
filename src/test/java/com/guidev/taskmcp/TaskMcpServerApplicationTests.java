@@ -1,4 +1,4 @@
-package com.guidev.task_mcp_server;
+package com.guidev.taskmcp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
