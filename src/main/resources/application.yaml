@@ -2,6 +2,13 @@ spring:
   application:
     name: task-mcp-server
 
+  ai:
+    mcp:
+      server:
+        protocol: STREAMABLE
+        streamable-http:
+          mcp-endpoint: /mcp
+
 server:
   port: 8080
 
